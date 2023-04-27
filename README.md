@@ -1,35 +1,23 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# 4364034 Visual Studio 开发者技巧与建议
 
-![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+这是 LinkedIn Learning 课程《Visual Studio 开发者技巧与建议》的存储库。 完整的课程可从[LinkedIn Learning](https://www.linkedin.com/learning)获得。
+
+Microsoft Visual Studio 是一个功能强大的 IDE。在这个为开发人员设计的课程中，微软最有价值专家闫晓迪将带领您探索 Visual Studio 的各种功能，包括使用筛选视图，自定义键盘命令，使用选项卡对文件进行分组，复制代码，预览文件，格式化代码等。另外，还介绍了几个有用的扩展，以增强 Visual Studio 的功能。
+
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+该存储库仅有一个 `main` 分支，无需切换分支。
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+要使用这些练习文件，请按照课程中的说明学习如何使用 GitHub 内容。 在本课程中，讲师使用 Visual Studio 2022，可以使用任意版本（社区版、专业版或企业版）。
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+**闫晓迪**
+
+_微软最有价值专家_，_微软认证讲师_，_微软认证解决方案架构师_，_社区贡献者_
+
+可以在 LinkedIn 上关注他的[主页](https://www.linkedin.com/in/xiaodi-yan/)。
