@@ -1,29 +1,36 @@
 ﻿using System;
 
-namespace TipsConsole
+namespace TipsConsole;
+
+internal class Program
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			
-			// a comment that explains something.
-		}
-		static void AddKeyboardShortcut()
-		{
+    private static void Main(string[] args)
+    {
 
-			Console.WriteLine("Add a keyboard shortcut");
-			Console.WriteLine("to do a Git pull operation");
+        // a comment that explains something.
+    }
+
+    private static void AddKeyboardShortcut()
+    {
+
+        Console.WriteLine("Add a keyboard shortcut");
+        Console.WriteLine("to do a Git pull operation");
 
 
-		}
-		public void ShowDuplicateTool()
-		{
-			Console.WriteLine("One");
-			Console.WriteLine("Two");
+    }
+    public void ShowDuplicateTool()
+    {
+        Console.WriteLine("One");
+        Console.WriteLine("Two");
 
-			Console.WriteLine("Three");
-			Console.WriteLine("Four");
-		}
-	}
+        Console.WriteLine("Three");
+        Console.WriteLine("Four");
+    }
+
+
+
+
+
+
+
 }
