@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="VB Files\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\TipsLib\TipsLib.csproj" />
   </ItemGroup>
 
