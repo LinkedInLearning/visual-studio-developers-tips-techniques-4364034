@@ -21,4 +21,4 @@ Microsoft Visual Studio 是一个功能强大的 IDE。在这个为开发人员�
 
 _微软最有价值专家_，_微软认证讲师_，_微软认证解决方案架构师_，_社区贡献者_
 
-你可以在[Linkedin Learning](https://www.linkedin.com/learning/instructors/xiaodi-yan) 上观看他的其他课程，也可以在 LinkedIn 上关注他的[主页](https://www.linkedin.com/in/xiaodi-yan/)。
+你可以在 [Linkedin Learning](https://www.linkedin.com/learning/instructors/xiaodi-yan) 上观看他的其他课程，也可以在 LinkedIn 上关注他的[主页](https://www.linkedin.com/in/xiaodi-yan/)。
